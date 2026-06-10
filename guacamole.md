@@ -4,3 +4,4 @@
 * lime = $1.00 /lb
 * salt = $1.00 /500 ml
 ## Instructions
+obliterate avocados
